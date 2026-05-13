@@ -1,0 +1,2 @@
+ : ;
+<raylib.h>:-lraylib -lgdi32 -lwinmm;
